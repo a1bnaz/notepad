@@ -41,7 +41,7 @@ public class Main {
                 noteTaker.writeToFile(newFile, scanner);
             } else if (userChoice != 3) {
                 if (userChoice == 4) {
-                    System.out.println("Thank you for using the app!");
+                    System.out.println("Thank you for using the app 😎!");
                     return;
                 }
             } else {
